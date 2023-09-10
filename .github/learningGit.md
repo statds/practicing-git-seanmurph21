@@ -1,4 +1,9 @@
+I added this sentence to the file in GitHub. 
+
+
 I added this sentence to the beginning of the file
+
+
 
 Using Git
 Familiarize yourself with Git by visiting the official Git project site and reading the ProGit book. You can also review the Git command list.
