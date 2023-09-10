@@ -1,6 +1,3 @@
-I added this sentence to the file in GitHub. 
-
-
 I added this sentence to the beginning of the file
 
 
